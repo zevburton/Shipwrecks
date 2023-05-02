@@ -30,6 +30,7 @@ library(cvms)
 library(tibble) 
 library(ggplot2)
 library(ggimage)
+library(ggpubr)
 ```
 
 ## Splitting data
